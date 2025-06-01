@@ -1,1 +1,1 @@
-Note: SPICE method shoul be set to modified trap
+Note: SPICE method should be set to modified trap
